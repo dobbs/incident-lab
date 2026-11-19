@@ -33,7 +33,8 @@ The original workshop abstract and our conference bios are also on [QCon San Fra
 
 ## Workshop Materials
 
-* [Workshop Slide Deck](SRECon%20EMEA%202026%20Workshop.pdf)
+* [Workshop Slide Deck](QCon%20San%20Francisco%202026%20Workshop.pdf)
+* [Uptime Labs (the incident response simulator)](https://www.uptimelabs.io/#qconsf26)
 
 ### Voice and Slack Transcripts
 * [Sarah and Alex Voice Transcript](transcripts/normalized/Sarah%20Alex%20transcript%20SRECon.pdf)
