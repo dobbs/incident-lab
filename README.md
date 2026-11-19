@@ -27,6 +27,8 @@ permalink: /index.html
 * **Alex Elman**, Staff Engineer, Slack | [LinkedIn](https://www.linkedin.com/in/pkill/)
 * **Stuart Rimell**, CPO, Uptime Labs | [LinkedIn](https://www.linkedin.com/in/stuartrimell/)
 
+The original workshop abstract and our conference bios are also on [QCon San Francisco 2026](https://qconsf.com/training/nov2026/incident-lab-responding-and-learning-production-failures)
+
 ---
 
 ## Workshop Materials
