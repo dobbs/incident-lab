@@ -20,8 +20,8 @@
 ## Presenters
 
 * **Courtney Nash**, Co-founder/CEO, The Void | [LinkedIn](https://www.linkedin.com/in/nashcourtney/)
-* **Alex Elman**, Staff Engineer, Slack | [LinkedIn](https://www.linkedin.com/in/pkill/)
 * **Eric Dobbs**, Principal Incident Analyst | [LinkedIn](https://www.linkedin.com/in/dobbse/)
+* **Alex Elman**, Staff Engineer, Slack | [LinkedIn](https://www.linkedin.com/in/pkill/)
 * **Stuart Rimell**, CPO, Uptime Labs | [LinkedIn](https://www.linkedin.com/in/stuartrimell/)
 
 ---
@@ -98,4 +98,4 @@
 * [Understanding Cognitive Work](https://www.adaptivecapacitylabs.com/UnderstandingCognitiveWorkStagedWorlds.pdf)
 
 ### License
-<a href="https://sarahbutt.github.io/srecon-26-emea/">Using Staged World Exercises to Practice Effective Incident Response and Analysis Techniques—SREcon26 EMEA Workshop Materials</a> © 2026 by Courtney Nash, Sarah Butt, Alex Elman, Eric Dobbs, Hamed Silatani is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://dobbs.github.io/incident-lab/">Incident Lab: Responding to and Learning From Production Failuress—QCon San Francisco 2026 Workshop Materials</a> © 2026 by Courtney Nash, Eric Dobbs, Alex Elman, Stuart Rimell, Sarah Butt, Hamed Silatani is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
