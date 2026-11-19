@@ -1,4 +1,7 @@
-# Incident Lab: Responding to and Learning From Production Failures
+---
+title: "Incident Lab: Responding to and Learning From Production Failures"
+permalink: /index.html
+---
 
 ## Table of Contents
 * [Presenters](#presenters)
