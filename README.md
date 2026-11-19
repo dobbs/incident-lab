@@ -1,3 +1,7 @@
+---
+title: "Incident Lab: Responding to and Learning From Production Failures"
+---
+
 ## Table of Contents
 * [Presenters](#presenters)
 * [Workshop Materials](#workshop-materials)
