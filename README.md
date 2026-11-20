@@ -65,6 +65,13 @@ The original workshop abstract and our conference bios are also on [QCon San Fra
 
 ## Resources
 
+### Related InfoQ Resources
+
+* [Articles by Courtney Nash](https://www.infoq.com/profile/Courtney-Nash/#allActivity)
+* [Articles by Laura Maguire](https://www.infoq.com/profile/Laura-Maguire/#allActivity)
+* [Articles by Vanessa Huerta Granda](https://www.infoq.com/profile/Vanessa-Huerta-Granda/#allActivity)
+* [Shifting Modes: Creating a Program to Support Sustained Resilience (by Alex Elman)](https://www.infoq.com/articles/series-enhancing-resilience-2/)
+
 ### Related SREcon26 EMEA Conference Sessions
 
 * [Panel: The Anatomy of an Incident: Expert Perspectives from Response to Retrospective](https://www.usenix.org/conference/srecon26emea/presentation/panel-anatomy)
