@@ -57,6 +57,10 @@ The original workshop abstract and our conference bios are also on [QCon San Fra
 * [Broken Site Image](screenshots/OB_Broken_site.png)
 * [Working Site Image](screenshots/OB_Website.png)
 
+### Incident Interruptus
+
+* [Sarah & Alex in Breaking Bez](https://share.descript.com/view/QpjdvW0nsj2)
+
 ---
 
 ## Resources
@@ -97,6 +101,7 @@ The original workshop abstract and our conference bios are also on [QCon San Fra
 
 ### Papers
 
+* [Coordination-first or coordination-last? AI agents in joint activity with human roles](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aaai.70083)
 * [Handling the Multi-Party Dilemma](https://www.researchgate.net/publication/376354074_Handling_the_Multi-Party_Dilemma)
 * [How Complex Systems Fail](https://how.complexsystems.fail/)
 * [Engaging Experts: Comparing Findings from Story Elicitation and a Staged-World Study of Paramedics](https://www.researchgate.net/publication/261699293_Engaging_Experts_Comparing_Findings_from_Story_Elicitation_and_a_Staged-World_Study_of_Paramedics)
